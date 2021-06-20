@@ -1,3 +1,8 @@
+Initially Published 06.20.2021
+Current as of 06.20.201
+
+
+
 How does it work:
 What is Tumbler?
 ------------------------------------------------------------------------------------
@@ -20,7 +25,10 @@ Purpose:
 This account is created in order to stop others from gaining insight into your creator coins, bitclout balance, or transfers. You can use this service as an intermediate between any and all transactions. We do not discriminate. We believe that just as much as you shouldn't know how much cash is in a stranger's wallet, they have no business knowing how much is in yours, where you obtained it from, or what you are buying with it. That being said, this account will absolutely not accept any bitclout or any creator coins linked to stolen accounts, or that are involved in any type of unlawful behavior. Unlawful is different than immoral or unethical.
 
 
-This profile has never been used on any application (e.g., cloutfeed, flick,  etc.). This profile is password protected and seed is stored from bitclout.com physically. There is no digital copy of the seed phrase.
+This profile has never been used on any application (e.g., cloutfeed, flick,  etc.). This profile is password protected and the seed phrase is stored from bitclout.com physically. There is no digital copy of the seed phrase. We maintain as little digitial footprint as we can, while increasing analog methods.
+
+
+
 This profile has never been used on any different browser than the one it is being used on.
 This profile has never had its Founders Reward changed from 100%. No one has infilitrated it. 
 
@@ -38,7 +46,7 @@ This account does not read messages unless they are PGP encrypted. You must incl
 
 It is your right to promote services that offer to "spy", to "track", to "anyalyze", or to "measure" any sort of metric or information related to your account. This account offers you the option to regain your privacy, while fully supporting transparency - meanining you are given a choice whether you "have nothing to hide" or whether you wish to remain private. You don't have to use our service. That's the choice that analytic services deny you. 
 ------------------------------------------------------------------------------------
-If this account is compromised, in any way, we will post a notice on our website. CloutTumbler.com. 
+If this account is compromised, in any way, we will post a notice on our website. CloutTumbler.com and on github.com/clouttumbler/statment/
 
 We will not make any public statements, posts, private messages or announcements. 
 
