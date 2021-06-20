@@ -1,0 +1,108 @@
+How does it work:
+What is Tumbler?
+------------------------------------------------------------------------------------
+Tumbler is a service that strives to maintain privacy on the bitclout.com platform. It is used by anyone and everyone. It is a free service. The only fees that you will pay are the transaction fees associated with depositing your money and withdrawing it. 
+
+Disclaimer: Withdrawals may take a minimum of 12 hours and a maximum of 48 hours. This service is not for short-term holdings. It is for long-term encrypted holding of BitClout and creator coins. We do not accept diamonds. We do not make any posts.
+
+Send all your garbage coins, received coins, or anything else to this address.
+
+It will be stored for you on bitclout.com
+
+There is no reason to be using a third-pary cold storage platform. 
+
+You can use one on bitclout.com
+
+If bitclout.com goes down, then the price of bitclout will go down. There is more risk in outside third-pary cold storage platforms than there is to keep your bitclout on bitclout.com.
+------------------------------------------------------------------------------------
+Purpose:
+
+This account is created in order to stop others from gaining insight into your creator coins, bitclout balance, or transfers. You can use this service as an intermediate between any and all transactions. We do not discriminate. We believe that just as much as you shouldn't know how much cash is in a stranger's wallet, they have no business knowing how much is in yours, where you obtained it from, or what you are buying with it. That being said, this account will absolutely not accept any bitclout or any creator coins linked to stolen accounts, or that are involved in any type of unlawful behavior. Unlawful is different than immoral or unethical.
+
+
+This profile has never been used on any application (e.g., cloutfeed, flick,  etc.). This profile is password protected and seed is stored from bitclout.com physically. There is no digital copy of the seed phrase.
+This profile has never been used on any different browser than the one it is being used on.
+This profile has never had its Founders Reward changed from 100%. No one has infilitrated it. 
+
+Disclaimer: The best cold storage is your own cold storage. If you are looking for a something other than a "reward-based" cold-storage, potentially compromised platform, this is it. 
+------------------------------------------------------------------------------------
+We will give $2000 in BITCOIN to anyone that can compromise this account. If this account is compromised, it can be traced. The only persons that would be able to do so are the devs or if there is an exploit in the code. We will give $750 in BITCOIN for any proof of leak or detectable chain of ownership of anyone's coins. You must provide your bitcoin wallet address and an email address in a pgp-encrypted message. We will not accept unencrypted messages under any circumstance.  At which point the funds will be returned to all clients, prior to sending out any rewards.
+------------------------------------------------------------------------------------
+Your coins are mixed with everyone else's coins. And paid out via random coins, your coins and BitClout. All in all, the amount of BitClout you put in (not the value - since that is fluctuating) will be the exact amount you will recieve. 
+
+This account will be used to tumble coins to remove traces and preserve your right to privacy. If anyone wants transparency, please post your credit card details and ID, as a way to prove you have nothing to hide. This is for people's right to privacy. 
+
+There is more to BitClout than meets the eye. It is pseudodecentralized. But this is an effort to make it more decentralized, more anonymous. We will not mention anything more about this. 
+
+This account does not read messages unless they are PGP encrypted. You must include your email if you expect a response. We will not tell you your balance. That is your responsibility. We keep a ledger. You can ask for any amount back at any time. 
+
+It is your right to promote services that offer to "spy", to "track", to "anyalyze", or to "measure" any sort of metric or information related to your account. This account offers you the option to regain your privacy, while fully supporting transparency - meanining you are given a choice whether you "have nothing to hide" or whether you wish to remain private. You don't have to use our service. That's the choice that analytic services deny you. 
+------------------------------------------------------------------------------------
+If this account is compromised, in any way, we will post a notice on our website. CloutTumbler.com. 
+
+We will not make any public statements, posts, private messages or announcements. 
+
+Privacy is a basic human right. 
+
+6.20.2021
+
+Tumbler
+
+
+PUBLIC PGP KEY:
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Expires:	4/12/2025 12:00 PM
+Fingerprint:	D7A026E72A5C38E595DC08CE9A04B5C7D8992860
+
+
+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
+=Ve+O
+-----END PGP PUBLIC KEY BLOCK-----
+
