@@ -46,7 +46,9 @@ This account does not read messages unless they are PGP encrypted. You must incl
 
 It is your right to promote services that offer to "spy", to "track", to "anyalyze", or to "measure" any sort of metric or information related to your account. This account offers you the option to regain your privacy, while fully supporting transparency - meanining you are given a choice whether you "have nothing to hide" or whether you wish to remain private. You don't have to use our service. That's the choice that analytic services deny you. 
 ------------------------------------------------------------------------------------
-If this account is compromised, in any way, we will post a notice on our website. CloutTumbler.com and on github.com/clouttumbler/statment/
+If this account is compromised, in any way, we will post a notice on our website. https://CloutTumbler.com and on github.com/clouttumbler/statment/current
+
+Please book both websites for future reference.
 
 We will not make any public statements, posts, private messages or announcements. 
 
@@ -114,3 +116,5 @@ QV6632t9pThGvncsbyMfAKsY6QselaSicIJSf5sDAQ==
 =Ve+O
 -----END PGP PUBLIC KEY BLOCK-----
 
+Email: clouttumbler@protonmail.com     
+WARNING: protonmail is open source and end-to-end encrypted, however, we will not respond unless the email is pgp-encrpyted. If the email is plain-text it will not receive a response or be read.
