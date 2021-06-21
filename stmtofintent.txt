@@ -19,6 +19,12 @@ There is no reason to be using a third-pary cold storage platform.
 You can use one on bitclout.com
 
 If bitclout.com goes down, then the price of bitclout will go down. There is more risk in outside third-pary cold storage platforms than there is to keep your bitclout on bitclout.com.
+
+
+------------------------------------------------------------------------------------
+Second Use-Case:
+
+If you want to clean up your profile with any coins that are left-over or you want to sell someones coins without letting prosperclout.com or any other anyaltic agents, you can send it and we will sell it for you. The sell process will take 24-96 hours. We need to tumble the coin and shred it apart for it to be untracable. 
 ------------------------------------------------------------------------------------
 Purpose:
 
@@ -48,7 +54,7 @@ It is your right to promote services that offer to "spy", to "track", to "anyaly
 ------------------------------------------------------------------------------------
 If this account is compromised, in any way, we will post a notice on our website. https://CloutTumbler.com and on github.com/clouttumbler/statment/current
 
-Please book both websites for future reference.
+Please bookmark both websites for future reference.
 
 We will not make any public statements, posts, private messages or announcements. 
 
